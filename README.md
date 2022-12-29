@@ -25,7 +25,7 @@
 <p align="center">
   <samp>
   <a href="#--------">
-    <img src="https://komarev.com/ghpvc/?username=tsuchipls&label=visitas&color=grey" alt="profile views" /> 
+    <img src="https://komarev.com/ghpvc/?username=nacho64&label=visitas :&color=grey" alt="profile views" /> 
   </a>
   </samp>
 </p>
