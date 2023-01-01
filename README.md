@@ -12,7 +12,7 @@
         <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=me+gusta+jugar+msc+y+aguante+spinneta">
       <br>
       <b>
-        ~ Supercheria de Kamikazes ~
+        ~ 𝗛𝗶𝗴𝗵𝘄𝗮𝘆 𝘁𝗼 𝗛𝗲𝗮𝘃𝗲𝗻 ~
       </b>
     </samp>
   </p>
